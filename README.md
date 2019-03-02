@@ -3,7 +3,7 @@ Sorting histogram in python for selected sorts
 
 **Topic and Learning Outcome:**
 
-Iterative Algorithms – Sorting Histogram:
+Iterative Algorithms:
 <http://www.learnalberta.ca/ProgramOfStudy.aspx?lang=en&ProgramId=74838#900020>
 
 **Essential Question:**
